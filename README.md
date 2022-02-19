@@ -1,2 +1,2 @@
-# Splitwise-Algorithm-C-
+# Splitwise-Algorithm
 Splitwise Algorithm C++
